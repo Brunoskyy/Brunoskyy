@@ -46,6 +46,20 @@
       <p>A realtime board for retros. No CRDT library: ops ordered by the server, optimistic edits replayed on top.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Brunoskyy/hookline/main/docs/logo.svg" width="28" align="left" alt="">
+      <a href="https://github.com/Brunoskyy/hookline"><b>&nbsp;Hookline</b></a><br>
+      <sub>&nbsp;Python · FastAPI · Postgres · AWS</sub>
+      <p>Webhook delivery: signed requests, retries with backoff, a dead-letter queue and a timeline of every attempt. SKIP LOCKED locally, SQS on AWS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Brunoskyy/pulse/main/docs/logo.svg" width="28" align="left" alt="">
+      <a href="https://github.com/Brunoskyy/pulse"><b>&nbsp;Pulse</b></a><br>
+      <sub>&nbsp;Go · SQLite · AWS ECS</sub>
+      <p>An uptime monitor in one binary: HTTP, TCP, DNS and TLS checks, incidents that open and close on their own, a 90-day status page.</p>
+    </td>
+  </tr>
 </table>
 
 <br>
