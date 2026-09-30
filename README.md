@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://brunoskyy.github.io"><b>brunoskyy.github.io</b></a> ·
+  <a href="https://www.linkedin.com/in/artur-duarte-dev/">LinkedIn</a> ·
   <a href="mailto:arturbrunoferreira@gmail.com">arturbrunoferreira@gmail.com</a>
 </p>
 
