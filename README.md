@@ -7,7 +7,6 @@ Frontend engineer in Fortaleza, Brazil. I work in React and TypeScript, mostly o
 **Work worth opening**
 
 - [Switchboard](https://github.com/Brunoskyy/switchboard) — feature flags for several tenants: targeting rules, staged rollouts, an audit trail. Next.js 16, Postgres, 98 tests.
-- git-retime — a CLI that audits and repairs commit dates through git plumbing, with an undo. Private for now; ask me for access.
-- Tandem — a realtime collaborative board. In progress.
+- [Tandem](https://github.com/Brunoskyy/tandem) — a realtime board for retros: sticky notes, votes, live cursors, and a small sync protocol instead of a CRDT library. React 19, WebSockets, SQLite, 52 tests.
 
 More on [brunoskyy.github.io](https://brunoskyy.github.io), or write to arturbrunoferreira@gmail.com.
