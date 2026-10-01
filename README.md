@@ -24,8 +24,8 @@
 ### What I've shipped with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cgo%2Caws%2Cdocker%2Credis%2Csqlite%2Cgithubactions%2Cexpress%2Cmongodb%2Cjest%2Csass%2Cstyledcomponents&theme=dark&perline=13">
-  <img alt="Python, FastAPI, Go, AWS, Docker, Redis, SQLite, GitHub Actions, Express, MongoDB, Jest, Sass, styled-components" src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cgo%2Caws%2Cdocker%2Credis%2Csqlite%2Cgithubactions%2Cexpress%2Cmongodb%2Cjest%2Csass%2Cstyledcomponents&theme=light&perline=13">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cgo%2Caws%2Cdocker%2Credis%2Csqlite%2Cgithubactions%2Cexpress%2Cnestjs%2Cmongodb%2Cjest%2Csass%2Cstyledcomponents&theme=dark&perline=14">
+  <img alt="Python, FastAPI, Go, AWS, Docker, Redis, SQLite, GitHub Actions, Express, NestJS, MongoDB, Jest, Sass, styled-components" src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cgo%2Caws%2Cdocker%2Credis%2Csqlite%2Cgithubactions%2Cexpress%2Cnestjs%2Cmongodb%2Cjest%2Csass%2Cstyledcomponents&theme=light&perline=14">
 </picture>
 
 <br>
@@ -82,7 +82,12 @@
       <sub>&nbsp;Next.js · Postgres · SQL · SVG charts</sub>
       <p>Product analytics over 300 thousand events: KPIs, retention cohorts and funnels computed in SQL, charts drawn by hand.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Brunoskyy/fig/main/docs/logo.svg" width="28" align="left" alt="">
+      <a href="https://github.com/Brunoskyy/fig"><b>&nbsp;Fig</b></a><br>
+      <sub>&nbsp;Claude Code plugin · NestJS · Express</sub>
+      <p>A refactor toolkit for legacy backends: routes move to the new service one at a time, and a route flips only when replayed legacy traffic matches.</p>
+    </td>
   </tr>
 </table>
 
