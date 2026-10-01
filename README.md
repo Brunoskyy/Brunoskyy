@@ -68,6 +68,20 @@
       <sub>&nbsp;Next.js · Claude API · pgvector</sub>
       <p>RAG over the TanStack Query docs: every claim links to the lines it came from, and retrieval quality is measured with evals.</p>
     </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Brunoskyy/rounds/main/docs/logo.svg" width="28" align="left" alt="">
+      <a href="https://github.com/Brunoskyy/rounds"><b>&nbsp;Rounds</b></a><br>
+      <sub>&nbsp;React · IndexedDB · Service worker</sub>
+      <p>Maintenance checklists that work with no signal. Edits from two offline phones are merged three ways; real conflicts go to the person.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Brunoskyy/gauge/main/docs/logo.svg" width="28" align="left" alt="">
+      <a href="https://github.com/Brunoskyy/gauge"><b>&nbsp;Gauge</b></a><br>
+      <sub>&nbsp;Next.js · Postgres · SQL · SVG charts</sub>
+      <p>Product analytics over 300 thousand events: KPIs, retention cohorts and funnels computed in SQL, charts drawn by hand.</p>
+    </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
