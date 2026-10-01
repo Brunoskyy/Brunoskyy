@@ -1,9 +1,9 @@
 <h2 align="center">Artur Bruno</h2>
 
 <p align="center">
-  Frontend engineer in Fortaleza, Brazil. React and TypeScript, mostly on the<br>
-  parts of a product where state gets awkward: permissions, rule builders,<br>
-  optimistic updates, offline sync, tables that have to stay fast.
+  Senior fullstack engineer in Fortaleza, Brazil. React and TypeScript on the front,<br>
+  Node, Python and Go behind it, AWS underneath. At FullstackLabs I help break<br>
+  monoliths into services and rebuild legacy back offices in React.
 </p>
 
 <p align="center">
