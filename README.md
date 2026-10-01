@@ -61,6 +61,15 @@
       <p>An uptime monitor in one binary: HTTP, TCP, DNS and TLS checks, incidents that open and close on their own, a 90-day status page.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Brunoskyy/cite/main/docs/logo.svg" width="28" align="left" alt="">
+      <a href="https://github.com/Brunoskyy/cite"><b>&nbsp;Cite</b></a><br>
+      <sub>&nbsp;Next.js · Claude API · pgvector</sub>
+      <p>RAG over the TanStack Query docs: every claim links to the lines it came from, and retrieval quality is measured with evals.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <br>
